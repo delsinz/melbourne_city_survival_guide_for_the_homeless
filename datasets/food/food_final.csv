@@ -1,0 +1,36 @@
+id,Name,Suburb,Address 1,Address 2,Latitude,Longitude,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+0,Collingwood Soup Van,Richmond,,Corner of Hoddle Street and Wellington Parade,-37.816921000000001,144.99015399999999,"(2,)",(),(),(),(),(),()
+1,"Anglicare, The Lazarus Centre",East Melbourne,St Peter’s Eastern Hill,15 Gisborne Street,-37.809910000000002,144.97548599999999,"(0,)","(0,)","(0,)","(0,)","(0, 1)","(0,)","(0,)"
+2,Baptist Church,Melbourne,Credo Café,174 Collins Street,-37.814960999999997,144.967725,(),(),(),(),(),(),"(2,)"
+3,Church of All Nations,Carlton,Church of All Nations,180 Palmerston Street,-37.795940999999999,144.96864199999999,(),"(1,)",(),(),(),(),"(1,)"
+4,"Hare Krishna Temple, Food For Life",Albert Park,,197 Danks Street,-37.848050999999998,144.954037,"(0, 1, 2)","(0, 1, 2)","(0, 1, 2)","(0, 1, 2)","(0, 1, 2)","(0, 1, 2)","(0, 1, 2)"
+5,"Anglicare, St Mark's Church Community Centre",Fitzroy,St Mark's Church Community Centre,250 George Street,-37.801611000000001,144.98183499999999,"(1,)","(1,)","(1,)","(1,)","(1,)",(),()
+6,"Collingwood Neighbourhood House, Mother's Kitchen",Collingwood,Collingwood Neighbourhood House,253 Hoddle Street,-37.801488999999997,144.99161799999999,(),"(1,)",(),(),(),"(1,)",()
+7,Open Table ,Collingwood,Collingwood Neighbourhood House,253 Hoddle Street,-37.801488999999997,144.99161799999999,(),(),(),(),(),(),"(1,)"
+8,Ozanam Community Centre,North Melbourne,,268 Abbotsford Street,-37.800795000000001,144.946225,"(0, 1)","(0, 1)","(0, 1)","(0, 1)","(0, 1)",(),()
+9,"Open Door, Seventh Day Adventist Church",Fitzroy,,27 Alfred Crescent,-37.786231999999998,144.98536100000001,(),"(2,)",(),"(2,)",(),(),"(2,)"
+10,Friends of the Earth Food Café,Collingwood,,312 Smith Street,-37.799936000000002,144.98438200000001,"(1,)","(1,)","(1,)","(1,)","(1,)","(1,)","(1,)"
+11,"Realfoods Café, RMIT ",Melbourne,"RMIT University City Campus - Food Court, Building 8, Level 4",360 Swanston Street,-37.808731999999999,144.96377100000001,"(1,)","(1,)","(1,)","(1,)","(1,)",(),()
+12,Open Table ,Brunswick,Brunswick Neighbourhood House,43a De Carle Street,-37.760438000000001,144.96486200000001,(),(),(),(),(),(),"(1,)"
+13,The Kitchen ,North Melbourne,North Melbourne YMCA Community Centre,49 Buncle Street,-37.793204000000003,144.940585,(),(),(),(),(),"(0, 1)",()
+14,Matthew Talbot Fitzroy Soup Van,South Melbourne,Hanover House,52 Haig Street,-37.827398000000002,144.95626799999999,(),(),(),(),(),(),()
+15,The Centre,North Melbourne,,58 Errol Street,-37.803784999999998,144.94982400000001,(),"(1,)",(),(),(),(),()
+16,"Salvation Army (Project 614), Hamodava Café",Melbourne,,69 Bourke Street,-37.812514999999998,144.97162800000001,"(0, 1)","(0, 1)","(0, 1)","(0, 1)","(0, 1)",(),()
+17,The Living Room,Melbourne,,7-9 Hosier Lane,-37.816296999999999,144.96902900000001,"(1,)","(1,)","(1,)","(1,)","(1,)",(),()
+18,Meals at the Bridge,Melbourne,Batman Park ,80 Rebecca Walk,-37.821471000000003,144.956706,(),(),(),(),"(2,)",(),()
+19,Sacred Heart Mission ,St Kilda,,87 Grey Street,-37.863011,144.97978699999999,"(0, 1)","(0, 1)","(0, 1)","(0, 1)","(0, 1)","(0, 1)","(0, 1)"
+20,St Silas Sunday Suppers,Albert Park,St Silas Church Hall,99 Bridport Street,-37.840341000000002,144.95743200000001,(),(),(),(),(),(),"(2,)"
+21,Matthew Talbot Fitzroy Soup Van,North Melbourne,North Melbourne Oval,Boundary Road,-37.792554000000003,144.939393,"(2,)","(2,)","(2,)","(2,)","(2,)","(2,)","(2,)"
+22,The Flemington and Kensington Community Lunch,Flemington,St Brendan's Parish Hall,Corner of Church and High Streets,-37.784176000000002,144.931927,"(1,)",(),(),(),(),(),()
+23,Collingwood Soup Van,Collingwood,,Corner of Smith and Stanley Streets,-37.801997,144.983778,(),"(2,)",(),"(2,)","(2,)",(),"(2,)"
+24,Matthew Talbot Fitzroy Soup Van,East Melbourne,Fitzroy Gardens,Lansdowne Street,-37.812134999999998,144.977992,"(2,)","(2,)","(2,)","(2,)","(2,)","(2,)","(2,)"
+25,Open Table ,Fitzroy,Fitzroy Community Kitchen in Atherton Gardens,Napier Street,-37.802652999999999,144.97984199999999,(),(),(),(),(),(),"(1,)"
+26,Matthew Talbot Fitzroy Soup Van,Melbourne,Queen Victoria Market Car Park,Peel and Franklin Streets,-37.808653999999997,144.95657700000001,(),(),(),(),(),(),()
+27,Recycled Food Network ,Melbourne,City Square,Swanston Street,-37.802486999999999,144.96362999999999,"(2,)","(2,)","(2,)","(2,)","(2,)","(2,)","(2,)"
+28,Matthew Talbot Fitzroy Soup Van,Fitzroy,All Saints Church,174 Brunswick Street,-37.802249000000003,144.978013,"(2,)","(2,)","(2,)","(2,)","(2,)","(2,)","(2,)"
+29,Matthew Talbot Fitzroy Soup Van,Melbourne,Flinders Street Station,Corner Flinders and Swanston Street,-37.976962999999998,145.066385,"(2,)","(2,)","(2,)","(2,)","(2,)","(2,)","(2,)"
+30,Rosie’s Bus ,Melbourne,Flinders Street Station (steps),Corner Flinders and Swanston Street,-37.976962999999998,145.066385,(),(),"(2,)",(),"(2,)",(),()
+31,University of Melbourne Food Co-op ,Parkville,University of Melbourne,"1st Floor, Union House",-37.796731000000001,144.96150900000001,"(0, 1)","(0, 1)","(0, 1, 2)","(0, 1)","(0, 1)",(),()
+32,Credo Café,Melbourne,Baptist Church,174 Collins Street,-37.814960999999997,144.967725,(),"(1,)","(1,)",(),(),(),()
+33,St Mary’s House of Welcome,Fitzroy,,165-169 Brunswick Street,-37.802492000000001,144.97746000000001,"(0, 1)","(0, 1)","(0, 1)","(0, 1)","(0, 1)","(0, 1)",()
+34,Emerald Hill Mission Food Bus,"St Kilda, South Melbourne and Southbank",Gatwick Hotel,34 Fitzroy Street,-37.860505,144.975571,"(2,)",(),"(2,)","(2,)","(2,)",(),"(2,)"
